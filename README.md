@@ -2,6 +2,10 @@
 
 ## All demos are based on scikit-learn
 
+### Pre requisites
+
+### Python and PIP
+
 ### Installation
 
-#### `$ pip install scikit-learn`
+#### `$ pip install -r requirements.txt`
