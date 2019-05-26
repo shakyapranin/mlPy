@@ -67,5 +67,5 @@ tree.export_graphviz(classifier,
 )
 
 graph = pydot.graph_from_dot_data(dot_data.getvalue())
-graph.write_pdf("iris.pdf")
-
+graph[0].write_pdf("iris.pdf")
+# print(graph[0])

@@ -2,3 +2,4 @@ scikit-learn
 # IPython
 pydot
 graphviz
+pydot-ng
